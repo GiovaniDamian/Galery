@@ -1,0 +1,16 @@
+div.header {
+    background-color: #4f535a;
+    padding: 0px 15px;
+    box-shadow: var(--shadow);
+    color: #fff;
+    text-decoration: none;
+    grid-area: header;
+}
+
+button:hover {
+    background-color: #4c4e51;
+}
+
+header.header {
+    grid-area: header;
+}
